@@ -1,0 +1,10 @@
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4aaf1ab9ea9c5d3eeea138403d163c8956e3b78c"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "b4d8fb1e5ded2dc590f19f8aaeec4a542199206086724273cd65e5d0c2ef0c5a"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.3.0+0/Qt6Declarative.v6.3.0.x86_64-linux-musl-cxx11.tar.gz"
