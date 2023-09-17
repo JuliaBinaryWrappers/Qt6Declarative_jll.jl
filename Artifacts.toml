@@ -1,10 +1,244 @@
 [[Qt6Declarative]]
+arch = "aarch64"
+git-tree-sha1 = "83cb43c878286ce7d516581759f80847901cc56e"
+os = "macos"
+
+    [[Qt6Declarative.download]]
+    sha256 = "fc89edfa4550dd945a977b50c7313d913f768c625ff8ae8e967efb52cf0564d8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.aarch64-apple-darwin.tar.gz"
+[[Qt6Declarative]]
 arch = "x86_64"
+git-tree-sha1 = "9bf7ddecc74dc8d2ef56fdfbb2f56a0c6c8bedc9"
+os = "macos"
+
+    [[Qt6Declarative.download]]
+    sha256 = "054567d64dd8fd37e09b29082c11219e11601237417c13aa79e1d26da4a1149c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-apple-darwin.tar.gz"
+[[Qt6Declarative]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8592db65a9b7e1abbcf347b8cf7f184360cf9e55"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "b47f20c878441de217a26c59562f31fa55744313c0452c247185519913ca0073"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9709ed656385f8253171038c02e20f57626b1e13"
+git-tree-sha1 = "f3944c2546e5f5ef74f01a5913c068ca58161ea5"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "15a131ae24e0ebf2f7095ce25310f34ea1a088da66c0df058e8822b7354cac06"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b97769d5c8a0fb6cff54d78b0734610771f86d9b"
 libc = "musl"
 os = "linux"
 
     [[Qt6Declarative.download]]
-    sha256 = "366623c059d02e652816dcc87cc2d54da53adde820c5d9b8e8ee821f9935d11c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+0/Qt6Declarative.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b8e511e5c805e7bdf67518c44371c02fee5be6caeb28a1405905d1758fd97094"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed79a7b9941645c62c0fb0dd3899817eb0907862"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "0fdbcb9c6a2288ea6eecc3dc4a46ca5665eee12acecc31c8e782c55ea1c0ac9b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4753c2d50ff3c2fd32f13f390712a0a3f3ee805b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "6dfa4f05e7972ec4ce165c13e0e68272458d3ade0281caadb25c7dcd88975652"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7feda3ec8a57ea1b8f29cc119ebb451df684597d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "a89bd0f0088965d6b6069411d3d0952e90d130c8a49f2941034481ac457914ad"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1a023202aff9eedb3532628019420111343346b3"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "11019a41d562e7f006eb8af1a2ba44bc905147989df6364053549e81e4b38a51"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "541fc48fbc1737b04e030291115686dc1a00e581"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "46cf71d9b3271af97a4b5125ed422c7a63a0b6b500b04abe199a3a184b9b887e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e504bd923e5c99baec67ec11b3c598f73f41f18"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "948a6e7e44fb4d2ea1060e9a61a20da54a4434608475413d19287d91209dccbb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48cadf84d031fbf82cafe13149b27ad35873e265"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "9efa217a1657fa36c8e65de6a1a0778bf47d7bde99aa01de2ae9bf99e19309c6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2b3a07ad3029309944206975b6a5d6c3eebac5e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "8d50b3aa9fd1496cedba4a26aa00e216791d8db7389f33d88c60a5729c2dd2a3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99db6fbaad3eb2ab5f88b0164c78f7d4ef7e8ce3"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "5f035e9870288a2e2cc102deb8b04bd4c8d47853da3a2129fe73af1e170b1d36"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bcbfbc6a501957b6335984b18012a75206f140bc"
+os = "windows"
+
+    [[Qt6Declarative.download]]
+    sha256 = "507e96514f79461eb9be648a41a517988277a67fae006d785573c6cce1eff2d2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "779971865e9955efd2fb51913a5785992a99747e"
+os = "windows"
+
+    [[Qt6Declarative.download]]
+    sha256 = "28704f56d878fbbd733bf5e30f4368bed4aa5f48135723cfd8871bbbe6cd312e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c2f5deba6239e1e3aacbe384b68f95e2350994b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "0d4188f70d271fbeac9fabcd7191efb80aed38d779ee33b15172f007b03f303e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eaca83d790a772a233807ac0c3559f75128e0ea3"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "ce270fde6801605e9a1d406751379188c49b6212e5b3ae55bcc9578029ef5803"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "168f2e8aece01fd4178df40033bbedda0b28c83e"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "b3f6ffab1281671c6e2fc0845f8106c4198ca000c5350344fe08edeaddb10fd4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ec56e0e1b25eaaa5a9562609d54195b360a0348"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "e6b95a5fc73e490c6e45be4de461c9c877ce4063bdfc0d747cd74e1201a1e5b8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9656ddc7573e5671518a58de79df71a97c694ffb"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "b6d48fe1ff652a825b40491d2d700951e68726c53ba91a4b20055232ca23a9d0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ef92793030761ec3479051af4accebdab4aee1a"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Declarative.download]]
+    sha256 = "98b53bc7b1f191028747e2d284eb549e12b79645f237c42dd0d791d5c39ebd68"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+git-tree-sha1 = "564a3a4dee9b333b00f08a92a87251b0c5f7de15"
+os = "freebsd"
+
+    [[Qt6Declarative.download]]
+    sha256 = "98a08eacc2c5e9be2ab1f38daff53f1c86ba3ac5d8e8974545500257fff74450"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52d168f75e1e09e1fb9d69cee115263cb7ade007"
+os = "windows"
+
+    [[Qt6Declarative.download]]
+    sha256 = "e71028388d5b18418887b94578f38c71f3460f13d22525184b09b1f772768a9d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6Declarative]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5b2f6029a93408d9556cff464f341a32fbdad06"
+os = "windows"
+
+    [[Qt6Declarative.download]]
+    sha256 = "78bde112231007d803ccac701b8476b56c99b9a73377ee3597829724a03e163e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Declarative_jll.jl/releases/download/Qt6Declarative-v6.5.2+1/Qt6Declarative.v6.5.2.x86_64-w64-mingw32-cxx11.tar.gz"
