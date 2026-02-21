@@ -3,6 +3,7 @@ export libqt6labsanimation, libqt6labsfolderlistmodel, libqt6labsqmlmodels, libq
 
 using Qt6Base_jll
 using Qt6ShaderTools_jll
+using Qt6Svg_jll
 JLLWrappers.@generate_wrapper_header("Qt6Declarative")
 JLLWrappers.@declare_library_product(libqt6labsanimation, "libQt6LabsAnimation.so.6")
 JLLWrappers.@declare_library_product(libqt6labsfolderlistmodel, "libQt6LabsFolderListModel.so.6")
@@ -42,7 +43,7 @@ JLLWrappers.@declare_library_product(libqt6quicktemplates2, "libQt6QuickTemplate
 JLLWrappers.@declare_library_product(libqt6quicktest, "libQt6QuickTest.so.6")
 JLLWrappers.@declare_library_product(libqt6quickwidgets, "libQt6QuickWidgets.so.6")
 function __init__()
-    JLLWrappers.@generate_init_header(Qt6Base_jll, Qt6ShaderTools_jll)
+    JLLWrappers.@generate_init_header(Qt6Base_jll, Qt6ShaderTools_jll, Qt6Svg_jll)
     JLLWrappers.@init_library_product(
         libqt6labsanimation,
         "lib/libQt6LabsAnimation.so",
